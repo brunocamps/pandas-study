@@ -12,4 +12,4 @@ The file series-basics.py contains the source code used in the training.
 
 In case you conduct any NumPy operation like scalar multiplication or math functions, the index-value relationship will preserve.
 
-One way of thinking of Pandas series is like an ordered dict of fixed size, like a map between values of indexes and values of data. It can be used in many ways a dict could be used.
+One way of thinking of Pandas series is like an ordered dict of fixed size, like a map between values of indexes and values of data. It can be used in many ways a dict could be used. If you assign a dictionary to a pandas Series, you will have the dict keys ordered.
